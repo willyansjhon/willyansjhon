@@ -1,6 +1,6 @@
 - 👋 Hi, eu sou @willyansjhon
 - 👀 interessado em aprender o maximo possível
 - 🌱 No momento estou aprendendo python
-- 📫 me procure e me acharas...
+- 📫 Me traga comida
 
-Grande fã de abacates e do aprendizado, porem o sono em excesso atrapalha. 
+Grande fã de abacates  e de desenvolvimento Geral
